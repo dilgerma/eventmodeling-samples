@@ -20,7 +20,7 @@ This sample demonstrates a live event modeling session for a shopping cart domai
 
 ### Step 1 — Open the Canvas
 
-Go to [eventmodelers.de/canvas](https://www.eventmodelers.de/canvas) and click **Restore** in the toolbar.
+Go to [app.eventmodelers.de/canvas](https://app.eventmodelers.de/canvas) and click **Restore** in the toolbar.
 
 ![Restore menu](images/eventmodeling_restore_menu.png)
 
