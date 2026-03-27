@@ -10,7 +10,7 @@ A 10-minute event modeling session showcasing how to use the new Event Modeling 
 
 ## The Model
 
-![Event Model](eventmodel.png)
+![Event Model](images/eventmodel.png)
 
 ## About
 
@@ -22,7 +22,7 @@ This sample demonstrates a live event modeling session for a shopping cart domai
 
 Go to [eventmodelers.de/canvas](https://www.eventmodelers.de/canvas) and click **Restore** in the toolbar.
 
-![Restore menu](eventmodeling_restore_menu.png)
+![Restore menu](images/eventmodeling_restore_menu.png)
 
 Select the file `eventmodel-backup-2026-03-27.json` from this repository to load the model.
 
@@ -30,15 +30,15 @@ Select the file `eventmodel-backup-2026-03-27.json` from this repository to load
 
 Select all elements on the canvas (Ctrl+A / Cmd+A), then use the **Export Selection** option in the toolbar to prepare the model for export.
 
-![Create config](02_create_config.png)
+![Create config](images/02_create_config.png)
 
 ### Step 3 — Export to Lovable
 
 Use the **Export to Lovable** action to send the model directly to [Lovable](https://lovable.dev), where it can be used to scaffold a working application from the event model.
 
-![Export to Lovable](03_lovable.png)
+![Export to Lovable](images/03_lovable.png)
 
 ## Contents
 
 - `eventmodel-backup-2026-03-27.json` — exported event model from the session
-- `eventmodeling_restore_menu.png` — screenshot of the Restore toolbar
+- `images/` — screenshots used in this guide
