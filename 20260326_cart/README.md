@@ -8,6 +8,10 @@ A 10-minute event modeling session showcasing how to use the new Event Modeling 
 
 [Watch on YouTube](https://youtu.be/S9O05PcsBsY)
 
+## The Model
+
+![Event Model](eventmodel.png)
+
 ## About
 
 This sample demonstrates a live event modeling session for a shopping cart domain. In under 10 minutes, the session walks through the core workflow of the Event Modeling Toolkit — capturing events, commands, read models, and their relationships on a single timeline.
