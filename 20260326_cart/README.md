@@ -26,9 +26,13 @@ Select the file `eventmodel-backup-2026-03-27.json` from this repository to load
 
 Select all elements on the canvas (Ctrl+A / Cmd+A), then use the **Export Selection** option in the toolbar to prepare the model for export.
 
+![Create config](02_create_config.png)
+
 ### Step 3 — Export to Lovable
 
 Use the **Export to Lovable** action to send the model directly to [Lovable](https://lovable.dev), where it can be used to scaffold a working application from the event model.
+
+![Export to Lovable](03_lovable.png)
 
 ## Contents
 
